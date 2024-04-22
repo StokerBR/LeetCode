@@ -6,17 +6,14 @@ class Solution:
             m = (l+r) // 2
             if target == nums[m]:
                 return m
-            elif target == nums[l]:
-                return l
-            elif target == nums[r]:
-                return r
-            
-            if nums[l] > nums[m] and (target > nums[l] or target < nums[m]):
-                r = m-1
-            elif nums[r] < nums[m] and (target < nums[r] or target > nums[m]):
-                l = m+1
-            elif target > nums[m]:
-                l = m+1
+            if nums[l] <= nums[m]:
+                if target < nums[l] or target > nums[m]:
+                    l = m+1
+                else:
+                    r = m-1
             else:
-                r = m-1
+                if target > nums[r] or target < nums[m]:
+                    r = m-1
+                else:
+                    l = m+1
         return -1
