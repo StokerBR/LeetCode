@@ -4,11 +4,7 @@ class Logger:
         self.messages = {}
 
     def shouldPrintMessage(self, timestamp: int, message: str) -> bool:
-        if message in self.messages:
-            t = self.messages[message]
-            if timestamp >= t+10:
-                self.messages[message] = timestamp
-                return True
+        if message in self.messages and timestamp < self.messages[message]+10:
             return False
         else:
             self.messages[message] = timestamp
