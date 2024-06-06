@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/StokerBR/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/StokerBR/LeetCode/tree/master/1044-find-common-characters) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/StokerBR/LeetCode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
+| [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/StokerBR/LeetCode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 # Backtracking
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/StokerBR/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/StokerBR/LeetCode/tree/master/1044-find-common-characters) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/StokerBR/LeetCode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
+| [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/StokerBR/LeetCode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 # Greedy
 |  |
 | ------- |
@@ -49,3 +51,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/StokerBR/LeetCode/tree/master/0876-hand-of-straights) |
+| [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/StokerBR/LeetCode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
