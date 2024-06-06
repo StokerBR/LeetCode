@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/StokerBR/LeetCode/tree/master/0079-word-search) |
+| [0876-hand-of-straights](https://github.com/StokerBR/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/StokerBR/LeetCode/tree/master/1044-find-common-characters) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/StokerBR/LeetCode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 # Backtracking
@@ -32,13 +33,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/StokerBR/LeetCode/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/StokerBR/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/StokerBR/LeetCode/tree/master/1044-find-common-characters) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/StokerBR/LeetCode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 # Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/StokerBR/LeetCode/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/StokerBR/LeetCode/tree/master/0876-hand-of-straights) |
 # Counting
 |  |
 | ------- |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/StokerBR/LeetCode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
+# Sorting
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/StokerBR/LeetCode/tree/master/0876-hand-of-straights) |
