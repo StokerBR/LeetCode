@@ -1,16 +1,17 @@
 class Solution:
     def commonChars(self, words: List[str]) -> List[str]:
-        freq = collections.defaultdict(list)
-        n = len(words)
-        for i, w in enumerate(words):
-            for c in w:
-                if freq[c] == []:
-                    freq[c] = [0 for _ in range(n)]
-                freq[c][i] += 1
-
         res = []
-        for c, arr in freq.items():
-            for _ in range(sorted(arr)[0]):
-                res.append(c)
-        
+
+        for c in range(ord('a'), ord('z')+1):
+            c = chr(c)
+            min_cnt = float('inf')
+
+            for w in words:
+                count = w.count(c)
+                min_cnt = min(min_cnt, count)
+                if min_cnt == 0:
+                    break
+
+            res += [c] * min_cnt
+
         return res
