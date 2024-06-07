@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/StokerBR/LeetCode/tree/master/0079-word-search) |
+| [0208-implement-trie-prefix-tree](https://github.com/StokerBR/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/StokerBR/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/StokerBR/LeetCode/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/StokerBR/LeetCode/tree/master/1044-find-common-characters) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/StokerBR/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/StokerBR/LeetCode/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/StokerBR/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/StokerBR/LeetCode/tree/master/1044-find-common-characters) |
@@ -68,3 +70,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/StokerBR/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+# Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/StokerBR/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+# Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/StokerBR/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
