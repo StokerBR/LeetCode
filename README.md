@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/StokerBR/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/StokerBR/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/StokerBR/LeetCode/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/StokerBR/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/StokerBR/LeetCode/tree/master/1044-find-common-characters) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/StokerBR/LeetCode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/StokerBR/LeetCode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/StokerBR/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/StokerBR/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/StokerBR/LeetCode/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/StokerBR/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/StokerBR/LeetCode/tree/master/1044-find-common-characters) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/StokerBR/LeetCode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/StokerBR/LeetCode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
@@ -92,3 +94,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/StokerBR/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/StokerBR/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
