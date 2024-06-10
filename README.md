@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/StokerBR/LeetCode/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/StokerBR/LeetCode/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/StokerBR/LeetCode/tree/master/1044-find-common-characters) |
+| [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/StokerBR/LeetCode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [3379-score-of-a-string](https://github.com/StokerBR/LeetCode/tree/master/3379-score-of-a-string) |
 # Two Pointers
 |  |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/StokerBR/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/StokerBR/LeetCode/tree/master/1044-find-common-characters) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/StokerBR/LeetCode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
+| [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/StokerBR/LeetCode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/StokerBR/LeetCode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 # Greedy
 |  |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/StokerBR/LeetCode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
+| [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/StokerBR/LeetCode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 # Sorting
 |  |
 | ------- |
@@ -90,8 +93,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/StokerBR/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/StokerBR/LeetCode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 # Prefix Sum
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/StokerBR/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/StokerBR/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/StokerBR/LeetCode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
