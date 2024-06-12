@@ -16,10 +16,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/StokerBR/LeetCode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/StokerBR/LeetCode/tree/master/0344-reverse-string) |
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/StokerBR/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/StokerBR/LeetCode/tree/master/0079-word-search) |
 | [0523-continuous-subarray-sum](https://github.com/StokerBR/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/StokerBR/LeetCode/tree/master/0648-replace-words) |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/StokerBR/LeetCode/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/StokerBR/LeetCode/tree/master/0876-hand-of-straights) |
 | [1217-relative-sort-array](https://github.com/StokerBR/LeetCode/tree/master/1217-relative-sort-array) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/StokerBR/LeetCode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
