@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/StokerBR/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/StokerBR/LeetCode/tree/master/1217-relative-sort-array) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/StokerBR/LeetCode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/StokerBR/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/StokerBR/LeetCode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 # Backtracking
 |  |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0409-longest-palindrome](https://github.com/StokerBR/LeetCode/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/StokerBR/LeetCode/tree/master/0876-hand-of-straights) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/StokerBR/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/StokerBR/LeetCode/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/StokerBR/LeetCode/tree/master/0876-hand-of-straights) |
 | [1217-relative-sort-array](https://github.com/StokerBR/LeetCode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/StokerBR/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/StokerBR/LeetCode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 # Depth-First Search
 |  |
