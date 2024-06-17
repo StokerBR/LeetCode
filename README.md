@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/StokerBR/LeetCode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/StokerBR/LeetCode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/StokerBR/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Array
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/StokerBR/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/StokerBR/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/StokerBR/LeetCode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 # Prefix Sum
 |  |
@@ -119,3 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/StokerBR/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/StokerBR/LeetCode/tree/master/1217-relative-sort-array) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/StokerBR/LeetCode/tree/master/0633-sum-of-square-numbers) |
