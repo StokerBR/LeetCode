@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/StokerBR/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/StokerBR/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/StokerBR/LeetCode/tree/master/1217-relative-sort-array) |
+| [1719-put-boxes-into-the-warehouse-ii](https://github.com/StokerBR/LeetCode/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/StokerBR/LeetCode/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/StokerBR/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/StokerBR/LeetCode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/StokerBR/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/StokerBR/LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/StokerBR/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1719-put-boxes-into-the-warehouse-ii](https://github.com/StokerBR/LeetCode/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/StokerBR/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting
 |  |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/StokerBR/LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/StokerBR/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/StokerBR/LeetCode/tree/master/1217-relative-sort-array) |
+| [1719-put-boxes-into-the-warehouse-ii](https://github.com/StokerBR/LeetCode/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/StokerBR/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/StokerBR/LeetCode/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 # Depth-First Search
