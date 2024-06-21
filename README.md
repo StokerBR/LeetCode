@@ -142,3 +142,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/StokerBR/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
+# Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/StokerBR/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/StokerBR/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/StokerBR/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+# Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/StokerBR/LeetCode/tree/master/0023-merge-k-sorted-lists) |
