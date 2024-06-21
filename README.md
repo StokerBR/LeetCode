@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/StokerBR/LeetCode/tree/master/0002-add-two-numbers) |
 | [0523-continuous-subarray-sum](https://github.com/StokerBR/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/StokerBR/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/StokerBR/LeetCode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/StokerBR/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/StokerBR/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 # Divide and Conquer
 |  |
@@ -158,3 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/StokerBR/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+# Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/StokerBR/LeetCode/tree/master/0002-add-two-numbers) |
