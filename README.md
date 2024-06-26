@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/StokerBR/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/StokerBR/LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/StokerBR/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/StokerBR/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/StokerBR/LeetCode/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/StokerBR/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/StokerBR/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/StokerBR/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/StokerBR/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 # Breadth-First Search
 |  |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/StokerBR/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [1285-balance-a-binary-search-tree](https://github.com/StokerBR/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -169,11 +172,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/StokerBR/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/StokerBR/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/StokerBR/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/StokerBR/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/StokerBR/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/StokerBR/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
