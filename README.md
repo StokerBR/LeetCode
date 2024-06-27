@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/StokerBR/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0838-design-linked-list](https://github.com/StokerBR/LeetCode/tree/master/0838-design-linked-list) |
 # Trie
 |  |
 | ------- |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/StokerBR/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/StokerBR/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0838-design-linked-list](https://github.com/StokerBR/LeetCode/tree/master/0838-design-linked-list) |
 # Divide and Conquer
 |  |
 | ------- |
