@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/StokerBR/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0065-valid-number](https://github.com/StokerBR/LeetCode/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/StokerBR/LeetCode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/StokerBR/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
