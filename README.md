@@ -186,3 +186,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/StokerBR/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/StokerBR/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Greedy
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/StokerBR/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+## Graph
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/StokerBR/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+## Sorting
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/StokerBR/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/StokerBR/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics End-->
