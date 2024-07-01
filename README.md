@@ -209,16 +209,31 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0860-design-circular-queue](https://github.com/StokerBR/LeetCode/tree/master/0860-design-circular-queue) |
 | [1293-three-consecutive-odds](https://github.com/StokerBR/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
 ## Linked List
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/StokerBR/LeetCode/tree/master/0860-design-circular-queue) |
+| [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/StokerBR/LeetCode/tree/master/0860-design-circular-queue) |
+| [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/StokerBR/LeetCode/tree/master/0860-design-circular-queue) |
+## Stack
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
