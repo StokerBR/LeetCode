@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/StokerBR/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [2379-maximum-total-importance-of-roads](https://github.com/StokerBR/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/StokerBR/LeetCode/tree/master/0860-design-circular-queue) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/StokerBR/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1293-three-consecutive-odds](https://github.com/StokerBR/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
 ## Linked List
@@ -236,4 +238,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
+## Union Find
+|  |
+| ------- |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/StokerBR/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 <!---LeetCode Topics End-->
