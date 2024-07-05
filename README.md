@@ -270,4 +270,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1512-design-underground-system](https://github.com/StokerBR/LeetCode/tree/master/1512-design-underground-system) |
+## Math
+|  |
+| ------- |
+| [1069-confusing-number](https://github.com/StokerBR/LeetCode/tree/master/1069-confusing-number) |
 <!---LeetCode Topics End-->
