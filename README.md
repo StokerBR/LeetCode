@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0163-missing-ranges](https://github.com/StokerBR/LeetCode/tree/master/0163-missing-ranges) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/StokerBR/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0422-valid-word-square](https://github.com/StokerBR/LeetCode/tree/master/0422-valid-word-square) |
 | [0860-design-circular-queue](https://github.com/StokerBR/LeetCode/tree/master/0860-design-circular-queue) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/StokerBR/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1293-three-consecutive-odds](https://github.com/StokerBR/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -291,4 +292,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/StokerBR/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0422-valid-word-square](https://github.com/StokerBR/LeetCode/tree/master/0422-valid-word-square) |
 <!---LeetCode Topics End-->
