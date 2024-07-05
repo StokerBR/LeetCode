@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0860-design-circular-queue](https://github.com/StokerBR/LeetCode/tree/master/0860-design-circular-queue) |
 | [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/StokerBR/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/StokerBR/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Design
 |  |
