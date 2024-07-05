@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0163-missing-ranges](https://github.com/StokerBR/LeetCode/tree/master/0163-missing-ranges) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/StokerBR/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0422-valid-word-square](https://github.com/StokerBR/LeetCode/tree/master/0422-valid-word-square) |
+| [0817-design-hashmap](https://github.com/StokerBR/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/StokerBR/LeetCode/tree/master/0860-design-circular-queue) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/StokerBR/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1293-three-consecutive-odds](https://github.com/StokerBR/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/StokerBR/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/StokerBR/LeetCode/tree/master/0860-design-circular-queue) |
 | [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/StokerBR/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/StokerBR/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/StokerBR/LeetCode/tree/master/0860-design-circular-queue) |
 | [1512-design-underground-system](https://github.com/StokerBR/LeetCode/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
@@ -256,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/StokerBR/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0817-design-hashmap](https://github.com/StokerBR/LeetCode/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/StokerBR/LeetCode/tree/master/0889-buddy-strings) |
 | [1512-design-underground-system](https://github.com/StokerBR/LeetCode/tree/master/1512-design-underground-system) |
 ## Two Pointers
@@ -299,4 +303,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0422-valid-word-square](https://github.com/StokerBR/LeetCode/tree/master/0422-valid-word-square) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/StokerBR/LeetCode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
