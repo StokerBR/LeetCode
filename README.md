@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-design-circular-queue](https://github.com/StokerBR/LeetCode/tree/master/0860-design-circular-queue) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/StokerBR/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1293-three-consecutive-odds](https://github.com/StokerBR/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/StokerBR/LeetCode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/StokerBR/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
@@ -320,4 +321,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0256-paint-house](https://github.com/StokerBR/LeetCode/tree/master/0256-paint-house) |
 | [0265-paint-house-ii](https://github.com/StokerBR/LeetCode/tree/master/0265-paint-house-ii) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/StokerBR/LeetCode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+## Prefix Sum
+|  |
+| ------- |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/StokerBR/LeetCode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 <!---LeetCode Topics End-->
