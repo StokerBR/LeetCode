@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-design-circular-queue](https://github.com/StokerBR/LeetCode/tree/master/0860-design-circular-queue) |
 | [1512-design-underground-system](https://github.com/StokerBR/LeetCode/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
+| [1708-design-parking-system](https://github.com/StokerBR/LeetCode/tree/master/1708-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/StokerBR/LeetCode/tree/master/1708-design-parking-system) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/StokerBR/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## String
 |  |
@@ -307,4 +309,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/StokerBR/LeetCode/tree/master/0817-design-hashmap) |
+## Counting
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/StokerBR/LeetCode/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
