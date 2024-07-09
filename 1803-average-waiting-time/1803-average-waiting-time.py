@@ -1,4 +1,3 @@
-import statistics
 class Solution:
     def averageWaitingTime(self, customers: List[List[int]]) -> float:
         waitingTimes = []
@@ -10,4 +9,4 @@ class Solution:
             currTime = time
             waitingTimes.append(time - a)
         
-        return statistics.mean(waitingTimes)
+        return sum(waitingTimes) / len(waitingTimes)
