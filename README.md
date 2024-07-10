@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/StokerBR/LeetCode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/StokerBR/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/StokerBR/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/StokerBR/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/StokerBR/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Linked List
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
+| [1720-crawler-log-folder](https://github.com/StokerBR/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0889-buddy-strings](https://github.com/StokerBR/LeetCode/tree/master/0889-buddy-strings) |
 | [1512-design-underground-system](https://github.com/StokerBR/LeetCode/tree/master/1512-design-underground-system) |
+| [1720-crawler-log-folder](https://github.com/StokerBR/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Math
 |  |
 | ------- |
