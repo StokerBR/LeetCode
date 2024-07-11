@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/StokerBR/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/StokerBR/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Doubly-Linked List
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0889-buddy-strings](https://github.com/StokerBR/LeetCode/tree/master/0889-buddy-strings) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/StokerBR/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1512-design-underground-system](https://github.com/StokerBR/LeetCode/tree/master/1512-design-underground-system) |
 | [1720-crawler-log-folder](https://github.com/StokerBR/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Math
