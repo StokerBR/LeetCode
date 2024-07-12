@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/StokerBR/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/StokerBR/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/StokerBR/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/StokerBR/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/StokerBR/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/StokerBR/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/StokerBR/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1512-design-underground-system](https://github.com/StokerBR/LeetCode/tree/master/1512-design-underground-system) |
 | [1720-crawler-log-folder](https://github.com/StokerBR/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/StokerBR/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Math
 |  |
 | ------- |
