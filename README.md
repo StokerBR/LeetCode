@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/StokerBR/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/StokerBR/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/StokerBR/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/StokerBR/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Linked List
 |  |
 | ------- |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/StokerBR/LeetCode/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/StokerBR/LeetCode/tree/master/0889-buddy-strings) |
 | [1512-design-underground-system](https://github.com/StokerBR/LeetCode/tree/master/1512-design-underground-system) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/StokerBR/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/StokerBR/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/StokerBR/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -318,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/StokerBR/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/StokerBR/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Matrix
 |  |
 | ------- |
