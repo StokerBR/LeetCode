@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/StokerBR/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/StokerBR/LeetCode/tree/master/0860-design-circular-queue) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/StokerBR/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [1207-delete-nodes-and-return-forest](https://github.com/StokerBR/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/StokerBR/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/StokerBR/LeetCode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/StokerBR/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0817-design-hashmap](https://github.com/StokerBR/LeetCode/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/StokerBR/LeetCode/tree/master/0889-buddy-strings) |
+| [1207-delete-nodes-and-return-forest](https://github.com/StokerBR/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1512-design-underground-system](https://github.com/StokerBR/LeetCode/tree/master/1512-design-underground-system) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/StokerBR/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
@@ -309,12 +311,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/StokerBR/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/StokerBR/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/StokerBR/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/StokerBR/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/StokerBR/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/StokerBR/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/StokerBR/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
@@ -324,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/StokerBR/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/StokerBR/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/StokerBR/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/StokerBR/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Matrix
