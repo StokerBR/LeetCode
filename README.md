@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/StokerBR/LeetCode/tree/master/0412-fizz-buzz) |
 | [1708-design-parking-system](https://github.com/StokerBR/LeetCode/tree/master/1708-design-parking-system) |
 | [1803-average-waiting-time](https://github.com/StokerBR/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/StokerBR/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/StokerBR/LeetCode/tree/master/0412-fizz-buzz) |
 | [0889-buddy-strings](https://github.com/StokerBR/LeetCode/tree/master/0889-buddy-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/StokerBR/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1512-design-underground-system](https://github.com/StokerBR/LeetCode/tree/master/1512-design-underground-system) |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/StokerBR/LeetCode/tree/master/0412-fizz-buzz) |
 | [1069-confusing-number](https://github.com/StokerBR/LeetCode/tree/master/1069-confusing-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/StokerBR/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Tree
