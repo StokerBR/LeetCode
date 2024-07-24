@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/StokerBR/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/StokerBR/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [1333-sort-the-jumbled-numbers](https://github.com/StokerBR/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/StokerBR/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/StokerBR/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/StokerBR/LeetCode/tree/master/2502-sort-the-people) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/StokerBR/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1207-delete-nodes-and-return-forest](https://github.com/StokerBR/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/StokerBR/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1333-sort-the-jumbled-numbers](https://github.com/StokerBR/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/StokerBR/LeetCode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1582-design-browser-history](https://github.com/StokerBR/LeetCode/tree/master/1582-design-browser-history) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/StokerBR/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
